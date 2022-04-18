@@ -20,3 +20,4 @@ const printProfileData = (profileDataArr) => {
   profileDataArr.forEach((profileitem) => console.log("foreach2", profileitem));
 };
 printProfileData(profileDataArgs);
+//

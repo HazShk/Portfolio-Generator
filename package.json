@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Generates a Portfolio Page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HazShk/Portfolio-Generator.git"
+  },
+  "keywords": [
+    "portfolio",
+    "generator"
+  ],
+  "author": "Hassan Shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HazShk/Portfolio-Generator/issues"
+  },
+  "homepage": "https://github.com/HazShk/Portfolio-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
